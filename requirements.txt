@@ -1,0 +1,4 @@
+Django==2.1
+psycopg2-binary
+Pillow
+django-tastypie==0.14.2
